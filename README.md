@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lm159753456@gmail.com)
 
 ### About
-Olá, sou o Lucas, estudante de Engenharia da Computação pela UEMG. Meu primeiro contato com programação foi em um curso de Python no ano de 2022. Atualmente me dedico a desenvolver-me na linguagem  Java, buscando aprender e aprimorar minhas habilidades.
+Olá! Sou o Lucas, estudante de Engenharia de Computação na UEMG. Minha trajetória com o código começou em 2022 com Python e, desde então, busco evoluir constantemente. Minha experiência prática passa pelo ciclo full stack, e hoje concentro meus esforços e estudos no aprofundamento em Backend e na Ciência de Dados, visando me tornar um profissional em IA.
 
-Hello, I'm Lucas, a Computer Engineering student at UEMG. My first contact with programming was on a Python course in 2022. I am currently dedicated to developing myself in the Java language, seeking to learn and improve my skills.
+Hi! I'm Lucas, a Computer Engineering student at UEMG. My coding journey began in 2022 with Python, and I've been constantly evolving ever since. My practical experience covers the full-stack cycle, and today I focus my efforts and studies on deepening my knowledge of Backend and Data Science, aiming to become an AI professional.
 
 <br/>
 <br/>
