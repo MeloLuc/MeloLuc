@@ -3,8 +3,9 @@
 #### Computer Engineering student    
 <i>(Ituiutaba, MG - Brasil)</i>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-de-melo-monteiro-peixoto-34b78926b/)
 [![Gmail](https://img.shields.io/badge/Gmail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lm159753456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-de-melo-monteiro-peixoto-34b78926b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFF?style=for-the-badge&logo=leetcode&logoColor=red)](https://leetcode.com/u/melol/)
 
 ### About
 Olá! Sou o Lucas, estudante de Engenharia de Computação na UEMG. Minha trajetória com o código começou em 2022 com Python e, desde então, busco evoluir constantemente. Minha experiência prática passa pelo ciclo full stack, e hoje concentro meus esforços e estudos no aprofundamento em Backend e na Ciência de Dados, visando me tornar um profissional em IA.
